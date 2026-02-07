@@ -4,10 +4,10 @@ This project is a **desktop-first recreation of the Cursor developer tool landin
 The goal was to achieve **visual and structural accuracy**, closely matching the original Cursor website in layout, typography, and hierarchy.
 
 🔗 **Live Site:**  
-https://CodeTechGuy.github.io/Chaicode_CursorLandingPage/
+https://codetechguy.github.io/chaicode_cursorLandingPage/
 
 📂 **GitHub Repo:**  
-https://github.com/CodeTechGuy/Chaicode_CursorLandingPage
+https://github.com/CodeTechGuy/Chaicode_cursorLandingPage
 
 ---
 
